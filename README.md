@@ -44,7 +44,7 @@ pip install requirements.txt
 
 For more information about the functions used, you can access the `optimization.py` file and for all the objects used, you can access the `graph.py` file.
 
-If you have any more information about the code you can reach out to me via my LinkedIn here https://www.linkedin.com/in/felix-fern/
+If you need more information about the code you can reach out to me via my LinkedIn here https://www.linkedin.com/in/felix-fern/
 
 ## Reference Used
 [1] Datta, Dilip & Figueira, José & Fonseca, Carlos & Pereira, Fernando. (2008). Graph partitioning through a multi-objective evolutionary algorithm: A preliminary study. GECCO'08: Proceedings of the 10th Annual Conference on Genetic and Evolutionary Computation 2008. 625-632. 10.1145/1389095.1389222. 

@@ -28,7 +28,7 @@ where $n'_p$ and $n'_q$ are the number of vertex in partition $Z_p$ and $Z_q$. T
 
 ### 3. Minimizing the Spread of Each Partition
 $$\text{min} f_3 = \Sigma_{p=1}^Z \delta_p$$
-where $\delta_p = \text{max}(x_p^U - x_p^L, y_p^U - y_p^L)$, with (x^U_p, y^U_p) is the upper bound of point in partition $p$ and (x^L_p, y^L_p) is the lower bound of point in partition $p$. This objective function makes sure that each partition is compact in size.
+where $\delta_p = \text{max}(x_p^U - x_p^L, y_p^U - y_p^L)$, with $(x^U_p, y^U_p)$ is the upper bound of point in partition $p$ and ($x^L_p, y^L_p)$ is the lower bound of point in partition $p$. This objective function makes sure that each partition is compact in size.
 
 ## Interactive Method 
 The implementation of the interactive optimization method in this repository is gonna be using the NAUTILUS Navigator developed by DESDEO which is accessible here https://desdeo-mcdm.readthedocs.io/en/latest/notebooks/nautilus_navigator.html 

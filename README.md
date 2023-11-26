@@ -38,7 +38,7 @@ The implementation of the interactive optimization method in this repository is 
 ```
 pip install requirements.txt
 ```
-2. Open `Graph Partitioning.ipnyb`
+2. Open to see the how it's implemented `Graph Partitioning.ipnyb`
 3. Change the input as needed and then run each of the cells
 4. Enjoy the output!
 

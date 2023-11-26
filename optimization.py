@@ -184,7 +184,7 @@ def crowding_distance(front, objectives):
                 continue
 
             for i in range(1, num_solutions - 1):
-                distances[i] += (objectives[sorted_front[i+1]][obj_index] -
+                distances[i] += (objectives[sorted_front[i + 1]][obj_index] -
                                  objectives[sorted_front[i - 1]][obj_index]) / (max_obj_val - min_obj_val)
 
     return distances
